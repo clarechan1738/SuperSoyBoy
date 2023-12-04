@@ -1971,6 +1971,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SoyBoy
       objectReference: {fileID: 0}
+    - target: {fileID: 753005099987211375, guid: ffb317d76a9b20e4fbd3ba3029c09146,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 4199425002276586476, guid: ffb317d76a9b20e4fbd3ba3029c09146,
         type: 3}
       propertyPath: m_LocalPosition.x
